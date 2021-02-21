@@ -1,0 +1,19 @@
+body {
+  background-color: #002650;
+}
+.card {
+  background-color: #0e4079;
+  color: rgb(255, 255, 255);
+  border-color: white;
+}
+
+#cardTodo {
+  margin-top: 5vh;
+}
+
+p {
+  color: white;
+}
+h1,h2,h3,h4,h5,hr {
+  color: white;
+}
